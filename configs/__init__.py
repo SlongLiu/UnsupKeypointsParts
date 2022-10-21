@@ -1,0 +1,1 @@
+from .myconfig import *

@@ -1,0 +1,6 @@
+torch>=1.6
+torchvision>=0.7
+tensorboard==1.15
+tensorflow-gpu==1.15
+yapf
+addict

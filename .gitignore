@@ -1,0 +1,12 @@
+.*/
+log
+notebooks
+*/*.pyc
+*/*/*.pyc
+tmp/
+build/
+neural_renderer_pytorch.egg-info/
+neural_renderer/
+dist/
+figure/
+vis/
